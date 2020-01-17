@@ -1,5 +1,5 @@
 {
-  "name": "@bbq-beets/cdobson-demo",
+  "name": "@corydobson/fib-tools",
   "version": "0.1.11",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bbq-beets/cdobson-demo.git"
+    "url": "git://github.com/corydobson/fib-tools.git"
   },
   "author": "Jonathan Clem <jclem@github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bbq-beets/cdobson-demo/issues"
+    "url": "https://github.com/corydobson/fib-tools/issues"
   },
-  "homepage": "https://github.com/bbq-beets/cdobson-demo#readme",
+  "homepage": "https://github.com/corydobson/fib-tools#readme",
   "devDependencies": {
     "jest": "^24.8.0",
     "chai": "^3.5.0",

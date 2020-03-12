@@ -1,6 +1,6 @@
 {
   "name": "@corydobson/fib-tools",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
   "scripts": {

@@ -1,8 +1,8 @@
-# Fibonacci-Tools
+# Fibonacci-Tools 
 
 ![](https://github.com/corydobson/workflows/CI/badge.svg)
 
-This module provides helper functions for the Fibonacci sequence.
+This module provides util functions for the Fibonacci sequence. 
 
 ## Get the nth Number
 
